@@ -1,0 +1,10 @@
+{
+    "name": "dventure",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "dventure.xml",
+    "author": "katbarrett",
+    "minimum_firmware_version": 42
+}
